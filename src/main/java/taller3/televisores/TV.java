@@ -26,7 +26,6 @@ public class TV {
     public Marca getMarca() {
         return marca;
     }
-
     public void setMarca(Marca marca) {
         this.marca=marca;
     }
